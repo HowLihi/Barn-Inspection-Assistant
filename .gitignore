@@ -1,0 +1,30 @@
+# 数据集
+data/
+
+# 配置文件
+config/
+
+# 训练输出
+runs/
+
+# 模型权重
+*.pt
+*.onnx
+*.engine
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# 环境
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
